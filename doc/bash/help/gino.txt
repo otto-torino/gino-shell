@@ -1,0 +1,16 @@
+gino.sh, versione 0.1
+
+Utilizzo: gino.sh subcommand [args]
+
+Subcommands disponibili
+=======================
+
+[help]
+Mostra questo help
+
+[startapp]
+Inizializza un'applicazione
+
+Per visualizzare l'help dei subcommands utilizzare:
+  gino.sh help [subcommand]
+

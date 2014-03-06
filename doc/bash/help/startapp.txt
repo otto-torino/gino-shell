@@ -1,0 +1,6 @@
+gino.sh, versione 0.1, startapp subcommand
+
+Utilizzo: gino.sh startapp [appname]
+
+Inizializza un'applicazione di nome [appname]
+
