@@ -1,0 +1,6 @@
+gino.sh, versione 0.1, startsystemapp subcommand
+
+Utilizzo: gino.sh startsystemapp [appname]
+
+Inizializza un'applicazione di sistema non istanziabile di nome [appname]
+
