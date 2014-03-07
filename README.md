@@ -37,7 +37,7 @@ Lo script sistema i nomi dei file e il nome della classe controller all'interno 
 ###startsystemapp
 Inizializza un'applicazione di sistema non istanziabile:
 
-    $./gino.sh startapp newsletter
+    $./gino.sh startsystemapp newsletter
 
 I file vengono scaricati direttamente dal repository gino-seed (http://github.com/otto-torino/gino-seed)    
 Lo script crea una cartella all'interno della folder *app* di gino con un controller, un model, un css, un js, un less, un file di configurazione ed una vista.    
