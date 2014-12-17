@@ -9,7 +9,10 @@ Subcommands disponibili
 Mostra questo help
 
 [startapp]
-Inizializza un'applicazione
+Inizializza un'applicazione istanziabile
+
+[startsystemapp]
+Inizializza un'applicazione di sistema non istanziabile
 
 Per visualizzare l'help dei subcommands utilizzare:
   gino.sh help [subcommand]
