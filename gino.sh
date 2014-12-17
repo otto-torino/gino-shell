@@ -74,6 +74,7 @@ cmd_startapp() {
     echo "rinomino il js"
     mv ./seedApp.js ./$appname.js
     echo "replace seedApp con $appname"
+    sed -i "s/SeedApp/${appname^}/g" *.*
     sed -i "s/seedApp/$appname/g" *.*
     echo "Fatto!"
     echo "Enjoy your gino development!"
